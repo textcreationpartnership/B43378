@@ -1,0 +1,247 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Loves power and greatness, or, The charming lovers praise. Loves mighty accents founded natures frame, all that have being from loves fountain came; that universal gold, eternal joy, which yields the world such sacred harmony, whose charming power, no power has to stay, through Earth, through air, through sea it finds away.  To a new play-house tune.</title>
+         </titleStmt>
+         <extent>Approx. 5KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B43378</idno><idno type="EEBO-CITATION">489264896</idno>
+  <idno type="VID">208628</idno>
+  <idno type="EEBO-PROQUEST">2248520573</idno>
+  
+            <idno type="OCLC"> 489264896</idno>
+            <idno type="OCLC">ocn 489264896</idno>
+            <idno type="STC">Wing L3282</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B43378)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 208628)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2955:9)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Loves power and greatness, or, The charming lovers praise. Loves mighty accents founded natures frame, all that have being from loves fountain came; that universal gold, eternal joy, which yields the world such sacred harmony, whose charming power, no power has to stay, through Earth, through air, through sea it finds away.  To a new play-house tune.</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.) : ill. (woodcuts)  </extent>
+               <publicationStmt>
+                  <publisher>Printed for Phillip Brooksby at the Golden Ball in West-smithfield, neer the hospital-gate,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>[1672-1695]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Date range of publication suggested by Wing (2nd ed.).</note>
+                  <note>Reproduction of original in: Beinecke Rare Book and Manuscript Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Ballads, English --  17th century.</term>
+               <term type="genre_form">Broadsides --  England --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-05 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-07 </date>
+            <label>Maria Cecilia Caride </label>Sampled and proofread </change>
+         <change>
+            <date>2014-07 </date>
+            <label>Maria Cecilia Caride</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="song">
+            <pb facs="tcp:208628:1"/>
+            <pb facs="tcp:208628:2"/>
+            <head>Loves Power and Greatness, <hi>Or,</hi> The Charming Lovers Praise.</head>
+            <argument>
+               <lg>
+                  <l>Loves Mighty Accents founded Natures frame,</l>
+                  <l>All that have being from Loves Fountain came;</l>
+                  <l>That Universal good, Eternal joy,</l>
+                  <l>Which yields the world fuch Sacred harmony:</l>
+                  <l>Whose charming power, no power has to stay,</l>
+                  <l>Through Earth, through Air, through Sea it finds away.</l>
+               </lg>
+            </argument>
+            <opener>To a New Play-house Tune.</opener>
+            <argument>
+               <lg>
+                  <l>She sick upon her Bed doth lye, whilst he's at Sea</l>
+                  <l>Steering the Compass, away from her to flee;</l>
+                  <l>But Cupid hits him with his Golden Dart,</l>
+                  <l>And ma<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>es him likewise for to feel loves smart.</l>
+               </lg>
+            </argument>
+            <p>
+               <figure>
+                  <figDesc>woodcut of gentleman and lady outdoors</figDesc>
+               </figure>
+               <figure>
+                  <figDesc>woodcut of compass rose</figDesc>
+               </figure>
+            </p>
+            <div n="1" type="part">
+               <lg>
+                  <l>CAn Life be a Blessing,</l>
+                  <l>That's worth our possessing?</l>
+                  <l>Can life be a blessing if Love were away?</l>
+                  <l>Ah no though our Love all night keeps us waking,</l>
+                  <l>and though he torment us with cares all the day;</l>
+                  <l>Yet he sweetens, he sweetens, our pains in the taking</l>
+                  <l>theres an hour at the last, an hour to repay.</l>
+               </lg>
+               <lg>
+                  <l>In every possessing,</l>
+                  <l>So Heavenly a blessing,</l>
+                  <l>in every possessing the fruit of our pain;</l>
+                  <l>Poor Lovers forget long ages of anguish,</l>
+                  <l>what e're they have s<gap reason="illegible" resp="#murp" extent="4 letters">
+                        <desc>••••</desc>
+                     </gap>'d and done to obtain;</l>
+                  <l>'Tis a pleasure, a pleasure, to sigh, and to languish,</l>
+                  <l>when we hope, when we hope, to be happy again.</l>
+               </lg>
+               <lg>
+                  <l>For Love is a blessing,</l>
+                  <l>That's worth our possessing?</l>
+                  <l>great Love is that blessing for which we contend;</l>
+                  <l>Incircled to pleasures, to charms that are lasting,</l>
+                  <l>how happy are Lovers that mutally bend:</l>
+                  <l>O to manage, to manage, their loves without wasting</l>
+                  <l>those Heavenly, Heavenly moments to spend.</l>
+               </lg>
+               <lg>
+                  <l>Is honour a blessing</l>
+                  <l>that's worth the possessing?</l>
+                  <l>is Honour a blessing if Love be deny'd?</l>
+                  <l>Ah no but m<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>st glorious where love is adorning;</l>
+                  <l>honour shines brightest when love is apply'd</l>
+                  <l>It splendo s, it splendors, like the rays of the morning,</l>
+                  <l>all darting, all darting, from every side.</l>
+               </lg>
+            </div>
+            <div n="2" type="part">
+               <pb facs="tcp:208628:2"/>
+               <head>The second part to the same Tune.</head>
+               <lg>
+                  <l>When we by possessing,</l>
+                  <l>Create a new blessing,</l>
+                  <l>when we by possessing are Charm'd with delight;</l>
+                  <l>The ravishing pleasure of Beauties surprizing,</l>
+                  <l>to chase the dark shaddows of care all the night:</l>
+                  <l>And to sallace, to sallace, till <hi>Phoebus</hi> up-rising,</l>
+                  <l>does chear us, does chear us with the dazling light</l>
+               </lg>
+               <lg>
+                  <l>Ambitions no blessing,</l>
+                  <l>Nor pomp worth possessing,</l>
+                  <l>ambition's no blessing but fruitless and vain;</l>
+                  <l>Like a Ship on the Ocean the Billows dividing,</l>
+                  <l>till wrackt by a Tempest, and sunk in the Main:</l>
+                  <l>But Beauty, bright beauty, Loves eternal abiding</l>
+                  <l>no dangers, no dangers, can ever restrain.</l>
+               </lg>
+               <lg>
+                  <l>Oh Loves the chief blessing,</l>
+                  <l>And worthy possessing,</l>
+                  <l>O love's the chief blessing, by love the great frame</l>
+                  <l>Of Nature was setled, the Vniverse founded,</l>
+                  <l>and all that have being from Loves bounties came</l>
+                  <l>In Paradise, Paradise, sweet Love it abounded,</l>
+                  <l>and from our first Parents descended by fame,</l>
+               </lg>
+               <lg>
+                  <l>To Love is a blessing,</l>
+                  <l>That's worth the professing.</l>
+                  <l>to Love is a blessing, where beauties are kind</l>
+                  <l>Fame, honour, &amp; greatness, with all their dependants</l>
+                  <l>as when Love, as when love, possesses the mind.</l>
+               </lg>
+               <lg>
+                  <l>Those Charms in possessing,</l>
+                  <l>Renew the great blessing,</l>
+                  <l>those Charms in possessing, continually breaths</l>
+                  <l>Fresh fancies of pleasure, for Love is still blooming</l>
+                  <l>and glorious delight to our Bosoms bequeaths:</l>
+                  <l>whilst we drink up, whilst we drink up <hi>nectar</hi> consuming</l>
+                  <l>the moments, the moments, like Laurel we wreath</l>
+               </lg>
+               <lg>
+                  <l>Then Loves the great blessing,</l>
+                  <l>That's worthy possessing,</l>
+                  <l>then Loves the great blessing the glorious Love,</l>
+                  <l>Transcendant enjoyments most happy assigning</l>
+                  <l>whole ages of pleasure delightful must prove,</l>
+                  <l>The reward, the reward, of our toyl without pining</l>
+                  <l>then let us, then let us, for ever thus move:</l>
+                  <l>
+                     <hi>then let us, then let us, for ever thus love.</hi>
+                  </l>
+               </lg>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>London, <hi>Printed for</hi> Phillip Brooksby, at the Golden, Ball in West-smithfield, <hi>neer the</hi> Hospital-gate.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
